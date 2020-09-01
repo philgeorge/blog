@@ -1,0 +1,4 @@
+Settings[Keys.Host] = "www.philgeorge.info";
+Settings[Keys.LinkHideExtensions] = false;
+Settings[BlogKeys.Title] = "Phil George - Web Developer";
+Settings[BlogKeys.Description] = "The joy, pain and wonders of web development";
